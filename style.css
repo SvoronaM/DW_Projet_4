@@ -55,6 +55,13 @@ a:hover {
 .bloc-sm {
     padding: 20px 50px;
 }
+.col-sm-12 .text-center{
+    font-size: 21px;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-weight: 400;
+    line-height: 1;
+}
+
 
 .bg-center,
 .bg-l-edge,
