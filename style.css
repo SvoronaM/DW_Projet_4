@@ -343,6 +343,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    margin-right: 34px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -792,7 +793,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F5A17A!important;
+    color: #722A09!important;
 }
 
 .btn-atomic-tangerine {
@@ -858,7 +859,8 @@ h4 {
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
-        max-width: 80%
+        max-width: 80%;
+        padding-right: 10%;
     }
     .nav-center.navbar .nav {
         max-width: 100%
